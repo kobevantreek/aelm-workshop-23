@@ -1,4 +1,4 @@
-FROM <<TODO>>
+FROM aelm-workshop-23
 
 WORKDIR /app
 
