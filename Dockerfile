@@ -1,4 +1,4 @@
-FROM aelm-workshop-23
+FROM golang:1.21
 
 WORKDIR /app
 
